@@ -1,0 +1,14 @@
+name: ToXiiCEnchants
+version: 0.0.1
+description: Custom Enchant Plugin.
+author: ToXiiCxNetwork
+authors: [ToXiiCxNetwork]
+
+main: net.toxiic.enchants.Main
+database: false
+depend: []
+
+commands:
+  ToXiiCEnchants:
+    description: Main Enchants Command.
+    aliases: [te]
